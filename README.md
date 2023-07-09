@@ -33,31 +33,32 @@ npm start
 Após a instalação e execução do painel administrativo, você pode acessá-lo em seu navegador usando o seguinte URL: http://localhost:3000.
 
 # Contribuição
-Contribuições são bem-vindas! Se você quiser melhorar este painel administrativo ou adicionar novos recursos, siga as etapas abaixo:
+Contribuições são bem-vindas 💝
+Se você quiser melhorar este painel administrativo ou adicionar novos recursos, siga as etapas abaixo:
 
-1. Faça um fork deste repositório.
-2. Crie um novo branch com sua feature ou correção de bug:
+#### 1. Faça um fork deste repositório.
+#### 2. Crie uma nova branch com sua feature ou correção de bug:
 
 ```bash
-git checkout -b nome-da-sua-feature
+git checkout -b nome-da-sua-branch
 ```
 
-3. Faça as alterações desejadas e adicione os arquivos modificados:
+#### 3. Faça as alterações desejadas e adicione os arquivos modificados:
 
 ```bash
 git add .
 ```
 
-4. Faça um commit das suas alterações:
+#### 4. Faça um commit das suas alterações:
 
 ```bash 
 git commit -m "Descrição das alterações"
 ```
-5. Envie seu branch para o repositório remoto:
+#### 5. Envie seu branch para o repositório remoto:
 ```bash
-git push origin nome-da-sua-feature
+git push origin nome-da-sua-branch
 ```
-6. Abra um pull request neste repositório e aguarde a revisão e merge da sua contribuição.
+#### 6. Abra um pull request neste repositório e aguarde a revisão e merge da sua contribuição.
  
 # Licença
 Este projeto está licenciado sob a licença da FATEC ARARAS.
